@@ -99,8 +99,7 @@
 				frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 				<div class="front"><img src="'+ v.img +'"\
 				alt="'+ v.name +'" /></div>\
-				<div class="back"><img src="https://images.unsplash.com/photo-1576836165612-8bc9b07e7778?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80"\
-				alt="Codepen" /></div></div>\
+				<div class="back"><img src="https://static.tildacdn.com/tild6566-3736-4561-b839-663462623037/Group.svg" alt="Codepen" /></div></div>\
 				</div>';
 			});
 			return frag;
